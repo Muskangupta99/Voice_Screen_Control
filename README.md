@@ -1,4 +1,4 @@
-# Voice-Controlled Scrolling App
+# Voice-Controlled Screen Control App
 
 This is a  Python application that enables voice-controlled scrolling and zooming using the `tkinter` GUI library, `speech_recognition` for voice recognition, and `pyautogui` for simulating scrolling and zooming actions.
 
